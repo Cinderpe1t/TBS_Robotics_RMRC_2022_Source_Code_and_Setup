@@ -14,7 +14,7 @@ TBS Robotics RMRC 2022 Source Code and Setup
 - `gstream_udp_player_1.sh`
 - `send_motor_speed_v1.py`
 ## Start up sequence
-- From control station, open two `ssh -x user@IP` terminals to JETSON
+- From control station, open two `ssh -x user@IP` terminals to JETSON. Open two local terminals at control station.
 - Following is a recommended sequence to run codes
 - Run motor codes for the first time run
   - Control station: `python3 pyDS4_controller_pickle_v4.py &`
