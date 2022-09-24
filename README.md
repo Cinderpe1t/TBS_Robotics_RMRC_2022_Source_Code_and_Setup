@@ -1,6 +1,6 @@
 # TBS Robotics RMRC 2022 Source Code and Setup
 TBS Robotics RMRC 2022 Source Code and Setup
-## Prepare robot
+## Prepare robot and control station
 - Wireless access point
 - Connect to network
 - Connect gamepad
