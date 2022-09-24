@@ -1,10 +1,11 @@
 # TBS Robotics RMRC 2022 Source Code and Setup
 TBS Robotics RMRC 2022 Source Code and Setup
 ## Prepare robot and control station
-- Wireless access point
-- Connect to network
-- Connect gamepad
-- Connect battery packs
+- Power up wireless access point and control station
+- Connect gamepad to control station through USB
+- Connect battery packs to JETSON
+- Connect control station and JETSON to wireless network
+- Ensure static IP addresses for JETSON and control station, and modify codes in advance
 ## Robot (JETSON Nano) source code and setup
 - `dxl_4x_drive.py`
 - `gst_stream_udp_0.sh`
