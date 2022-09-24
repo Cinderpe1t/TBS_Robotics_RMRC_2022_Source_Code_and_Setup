@@ -26,3 +26,6 @@ TBS Robotics RMRC 2022 Source Code and Setup
 - `python3 pyDS4_controller_pickle_v4.py &` run as a background process. You will need to kill it to restart the whole robot. Run `ps` to find out process number for this program, then `kill xxxx`, where `xxxx` is the process number.
 - After the first time run, pickle in `pyDS4_controller_pickle_v4.py` should have save the `motorspeed.ps4`. And the file exist for `send_motor_speed_v1.py`. Otherwise it will stop with an error that it cannot find `motorspeed.ps4`. After initial run, you can utilize a set of scripts to run the robot.
 - Enjoy your drive!
+
+
+[Top: Introduction](https://github.com/Cinderpe1t/TBS_Robotics_Introduction)
